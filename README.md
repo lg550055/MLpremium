@@ -1,4 +1,4 @@
-### Title: ML premium
+### Does ML expertise correlate with a salary premium?
 
 ### Description
 Using the USA portion of a recent survey of data science professionals, we attempt to ascertain if there is a salary premium associated with machine learning expretise.  While would prefer to use a dataset that includes programmers in other areas beyond data science, this dataset seems to be a good starting point.
